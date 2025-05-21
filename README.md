@@ -1,16 +1,22 @@
-# notifications_test
+# Notification Test
 
-A new Flutter project.
+A simple Flutter app to demonstrate and test local notifications on mobile devices.
 
-## Getting Started
+## Features
+- Schedule and display local notifications.
+- Customize notification content and timing.
+- Support for Android and iOS platforms.
 
-This project is a starting point for a Flutter application.
+## Technologies
+- **Flutter**: For building the app’s UI and logic.
+- **Dart**: The primary programming language.
+- **flutter_local_notifications**: Plugin for handling local notifications.
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run
+1. Clone the repository: `git clone https://github.com/yourusername/notifications_test.git`
+2. Navigate to the folder: `cd notification_test`
+3. Install dependencies: `flutter pub get`
+4. Run the app: `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+Feel free to fork this repository, submit issues, or create pull requests!
